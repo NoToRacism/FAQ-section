@@ -256,7 +256,7 @@ ul {
 /* optional */
 
 body {
-  background: var(--primary-100);
+  background: var(--primary-900);
 }
 main {
   min-height: 100vh;
