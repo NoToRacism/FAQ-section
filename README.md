@@ -4,9 +4,6 @@ A simple React component that displays a list of frequently asked questions (FAQ
 
 **[Live Demo](https://faqsnoto.netlify.app/)**
 
-**(Optional: Add a screenshot or GIF of the component in action here)**
-
-
 ## Features
 
 - Displays questions and answers from a local data source (`data.js`).
