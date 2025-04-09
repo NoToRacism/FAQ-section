@@ -2,7 +2,10 @@
 
 A simple React component that displays a list of frequently asked questions (FAQs) in an accordion style. Clicking on a question reveals its answer, and only one answer can be shown at a time.
 
+**[Live Demo](https://faqsnoto.netlify.app/)**
+
 **(Optional: Add a screenshot or GIF of the component in action here)**
+
 
 ## Features
 
